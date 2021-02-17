@@ -1,0 +1,12 @@
+{
+  "name": "minimal-typescript",
+  "displayName": "minimal-typescript",
+  "expo": {
+    "name": "minimal-typescript",
+    "slug": "minimal-typescript",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
